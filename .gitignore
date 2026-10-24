@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Logs and debug
+training_log.txt
+*.log
+
+# Editor directories
+.vscode/
+.idea/
