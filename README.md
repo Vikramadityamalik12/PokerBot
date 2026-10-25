@@ -1,4 +1,4 @@
-# 🃏 DeepFold: Autonomous Heads-Up No-Limit Texas Hold'em AI
+
 
 > An unexploitable, real-time Game Theory Optimal (GTO) Poker Engine combining **Bayesian Opponent Modeling**, **K-Means Hand Abstraction**, and a **CFR+ (Counterfactual Regret Minimization)** Game Tree Solver.
 
